@@ -1,0 +1,15 @@
+The plugin provides you the ability to get data from IMDb api movies database.
+
+install the plugin,
+then you will see new "Movie Listings" post  type on the admin panel sidemenu,
+click "add new",
+inside the post type window you will have 2 options:
+
+1) enter the name of the wanted movie in the title(input with placeholder "Add title"),
+after entering the title click on "Get data from OMDb" button and all the other fields will 
+be filled with the data from IMDb database, you can change every field and save the post.
+
+2) fill every field manually.
+
+
+to view the posts grid just add shortcode [movies] to the wanted place.
